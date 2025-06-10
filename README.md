@@ -16,6 +16,3 @@ I’m a passionate software developer living in Australia. I enjoy solving compl
 
 ---
 
-
-Thanks for stopping by! 👨‍💻
-

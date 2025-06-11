@@ -1,7 +1,7 @@
 # Hi there, I’m James Leask 👋
 
 ## About Me
-I’m a passionate software developer living in Australia. I enjoy solving complex problems, learning new technologies, and building meaningful projects.
+I’m a passionate software developer living in Australia. I enjoy solving complex problems, learning new technologies, and building projects.
 
 - 🔭 Currently working as a Software Developer building front-end applications with Ruby
 - 🌱 Always eager to expand my skills and take on new challenges

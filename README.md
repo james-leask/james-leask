@@ -3,9 +3,8 @@
 ## About Me
 I’m a passionate software developer living in Australia. I enjoy solving complex problems, learning new technologies, and building projects.
 
-- 🔭 Currently working as a Software Developer building front-end features for a web application using Ruby on Rails
-- 🌱 Always eager to expand my skills and take on new challenges
-- 💡 Learning React and Django
+- Currently working as a Software Developer building front-end features for a web application using Ruby on Rails
+- Always eager to expand my skills and take on new challenges
 
 
 ## Skills & Tools

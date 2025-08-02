@@ -1,4 +1,4 @@
-# Hi there, I’m James 👋
+# James 
 
 ## About Me
 I’m a passionate software developer living in Australia. I enjoy solving complex problems, learning new technologies, and building projects.

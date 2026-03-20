@@ -1,10 +1,7 @@
 # James 
 
 ## About Me
-I’m a passionate software developer living in Australia. I enjoy solving complex problems, learning new technologies, and building projects.
-
-- Currently working as a Software Developer building front-end features for a web application using Ruby on Rails
-- Always eager to expand my skills and take on new challenges
+Software developer in Australia. I build front-end features with Ruby on Rails and like to dabble in personal projects whenever inspiration hits. I enjoy figuring out how things work, testing new ideas, and building things friends and family can enjoy. Beyond coding, I make time for hobbies 🏌🏈 ⚽ , exploring new interests, and generally trying to keep life interesting.
 
 
 ## Skills & Tools
